@@ -6,4 +6,3 @@ This example repo includes various examples discussed in the [accompanying Stron
 ```sh
 node --harmony async.js
 ```
->>>>>>> mod; readme to mention --harmony flag
